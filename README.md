@@ -1,1 +1,3 @@
-http://colinmorris.github.io/blog/ng2-poor-mans-deploy
+Clone it. 
+Run the command - " npm start "
+
